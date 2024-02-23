@@ -1,4 +1,4 @@
-|# Bem-vindo ao meu perfil! 👋
+# Bem-vindo ao meu perfil! 👋
 
 Olá, eu sou o Lucas Gonçalves, e minha paixão é tecnologia e educação. Através da programação, busco transformar a vida das pessoas e tornar o mundo digital mais interessante e acessível.
 
